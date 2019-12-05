@@ -1,0 +1,16 @@
+	a=1
+	c=3
+	d=2
+	t0=-a
+	t2=c*d
+	t3=t0+t2
+	e=t3
+L1:
+	t1=a<c
+	t2=c>d
+	t3=t1&&t2
+	if( not t3)	goto L2
+	t0=a22
+	a=t0
+	goto L1
+L2: 

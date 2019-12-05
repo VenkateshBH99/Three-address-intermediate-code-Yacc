@@ -1,0 +1,10 @@
+void main()
+{
+   int a,c,d,b;
+  
+
+    while(a<c || c>d){
+    a=b/c*d+(-c);
+
+    }
+}

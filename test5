@@ -1,0 +1,13 @@
+void main()
+{
+   int a,c,d,e;
+   a=1;
+   c=3;
+   d=2;
+   e=-a+c*d;
+   while(a<c && c>d){
+   a=a+2;
+   }
+
+   
+}

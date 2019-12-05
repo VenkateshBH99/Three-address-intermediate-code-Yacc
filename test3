@@ -1,0 +1,8 @@
+void main()
+{
+   int m2,x,y;
+   m2 = x*x+y*y;
+while (m2 > 5) {
+  m2=m2-x;
+}
+}

@@ -1,0 +1,11 @@
+void main()
+{
+
+   int a,b,c,d;
+  while(a<c && b<c || c>d) {
+       a=b/c*d+(-c); 
+          
+       }
+
+   
+}

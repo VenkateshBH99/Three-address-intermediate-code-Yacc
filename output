@@ -1,0 +1,11 @@
+	sum=0
+	i=1
+L1:
+	t2=i<n
+	if( not t2)	goto L2
+	t1=sumii
+	sum=t1
+	t1=i11
+	i=t1
+	goto L1
+L2: 

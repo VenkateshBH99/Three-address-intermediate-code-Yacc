@@ -1,0 +1,13 @@
+void main()
+{
+   int a,b,i,n,c;
+    a=3;
+b=4;
+i=0;
+while(i<n){
+a=b+1;
+a=a*a;
+i=i+1;
+}
+c=a;
+}
