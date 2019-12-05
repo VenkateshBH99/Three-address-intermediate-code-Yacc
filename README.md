@@ -17,8 +17,8 @@ To install flex and yacc in Fedora:
 
 Steps to execute the project:
 
-* lex subc-compiler.l
-* yacc subc-compiler.y
+* lex program.l
+* yacc program.y
 * gcc y.tab.c -ll -ly
 * ./a.out test
 
