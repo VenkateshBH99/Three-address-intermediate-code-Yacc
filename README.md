@@ -20,7 +20,7 @@ Steps to execute the project:
 * lex program.l
 * yacc program.y
 * gcc y.tab.c -ll -ly
-* ./a.out test
+* ./a.out testfilename
 
 or simply use shellscript to automate , run 
 
