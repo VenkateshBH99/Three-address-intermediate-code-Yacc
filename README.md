@@ -1,6 +1,7 @@
-#Documentation for Three address intermediate code generator
+## Documentation for Three address intermediate code generator
 
-###Requirements:
+## Requirements:
+
 These requirements are for users running Debian based Operating Systems like Ubuntu/Fedora
 
 One needs `Flex`(lex) and `Bison`(upward compatible with yacc) for lexical analyzer generator and parser generator
