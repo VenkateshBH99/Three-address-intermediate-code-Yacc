@@ -23,7 +23,7 @@ Steps to execute the project:
 * gcc y.tab.c -ll -ly
 * ./a.out testfilename
 
-or simply use shellscript to automate , run 
+or simply use shellscript to automate, run 
 
 * chmod 777 build.sh
 (this is for making the script executable)
